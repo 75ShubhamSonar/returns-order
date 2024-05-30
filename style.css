@@ -45,7 +45,10 @@ font-size:12px;
 color:#373A40;
 margin-left:20px;
 }
+.space{
+height:10px;
 
+}
 .inner a{
 color:#06CDFF;
 text-decoration:none;
